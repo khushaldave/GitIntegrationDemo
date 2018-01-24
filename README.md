@@ -1,2 +1,2 @@
 # GitIntegrationDemo Test Commits
-Making Cahnges for the Sprint Demo
+Making Cahnges for the Sprint-Demo
